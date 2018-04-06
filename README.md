@@ -1,4 +1,2 @@
-# Blockchain-C-Plus-Plus-Example
-This is a simple example of how a blockchain works (in C++).
 # Blockchain
-# Blockchain
+This is how a blockchain works in c++ programming language using an example.
